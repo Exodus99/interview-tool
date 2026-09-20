@@ -1,0 +1,17 @@
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Environment variables containing local API keys
+.env
+
+# Python virtual environment folder
+.venv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
